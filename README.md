@@ -44,5 +44,5 @@ I'm always open to collaborating on interesting projects and exploring new oppor
 
 * **Email**: [pasangyangji8@gmail.com](mailto:pasangyangji8@gmail.com)
 * **LinkedIn**: [linkedin.com/in/pasang-yangji-8b8600151](https://www.linkedin.com/in/pasang-yangji-8b8600151/)
-* **GitHub**: [github.com/pasangyangji](https://github.com/pasangyangji)
+* **GitHub**: [github.com/pasangyangji](https://github.com/pasang7)
 
