@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hello, I'm Er. Pasang Yangji Tamang
 
-<!--
-**pasang7/pasang7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate software developer from Nepal, currently based in Sydney, Australia. With a Master's degree in Information Technology specialising in Mobile Application Development, I bring over three years of experience in full-stack development, focusing on PHP, Laravel, and modern JavaScript frameworks.
 
-Here are some ideas to get you started:
+## 💻 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialise in building secure, scalable web applications and backend systems. My expertise includes:
+
+* **Backend Development**: PHP, Laravel, Python, MySQL
+* **Frontend Development**: Vue.js, Vuex, JavaScript, HTML5, CSS3
+* **API Integration**: RESTful APIs, Third-Party APIs
+* **Hosting**: Inmotion Hosting
+* **Version Control**: Git, GitLab
+
+## 🧰 Tools & Technologies
+
+* **Languages**: PHP, JavaScript, Python
+* **Frameworks**: Laravel, Vue.js, Bootstrap
+* **Databases**: MySQL, SQLite
+* **Tools**: Git, GitHub, PhpStorm, Visual Studio Code, Sublime Text 3
+
+## 📈 Career Highlights
+
+* **Software Developer at Bettercaremarket** (Oct 2023 – Dec 2024): Developed automated web scraping pipelines using Python (Selenium, Beautiful Soup) and integrated Stripe payment gateway into Laravel-based eCommerce platforms.
+* **Full Stack Developer at Pocket Studio** (Mar 2021 – Jun 2022): Built and maintained backend modules for custom HR management systems and delivered responsive, SEO-optimized web solutions.
+* **Web Developer at View Nepal Web Hosting** (Oct 2018 – Mar 2020): Developed custom web applications for clients in the tourism and retail sectors, streamlining content publishing for non-technical staff.
+
+## 🌱 Projects
+
+* **Fintech Software**: Laravel 9, Vue 3, REST API, Vue Bootstrap, MySQL
+* **HR Management & Payroll Integration**: Laravel 8, Bootstrap, JQuery/Ajax, MySQL
+* **Mass Mailing Software**: Laravel 8, Bootstrap, JQuery/Ajax, MySQL
+* **B2B Order Portal**: Laravel 7, Bootstrap, JQuery/Ajax, MySQL
+* **Corporate Websites**: Laravel 8, Bootstrap, JQuery/Ajax, MySQL
+* **Tours & Travel Websites**: Laravel, Bootstrap, JQuery/Ajax, MySQL, HTML
+* **Payment Integration**: Khalti, Esewa, Stripe
+* **Restaurant Management Software**: Laravel, HTML, Bootstrap, JQuery/Ajax, MySQL
+* **Chat System**: Laravel, Bootstrap, JQuery/Ajax, MySQL, WebSocket
+* **Content Management System (Custom)**: Laravel, MySQL
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on interesting projects and exploring new opportunities. Feel free to reach out to me via:
+
+* **Email**: [pasangyangji8@gmail.com](mailto:pasangyangji8@gmail.com)
+* **LinkedIn**: [linkedin.com/in/pasang-yangji-8b8600151](https://www.linkedin.com/in/pasang-yangji-8b8600151/)
+* **GitHub**: [github.com/pasangyangji](https://github.com/pasangyangji)
+
