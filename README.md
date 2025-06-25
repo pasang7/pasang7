@@ -15,15 +15,9 @@ I specialise in building secure, scalable web applications and backend systems. 
 ## 🧰 Tools & Technologies
 
 * **Languages**: PHP, JavaScript, Python
-* **Frameworks**: Laravel, Vue.js, Bootstrap
+* **Frameworks**: Laravel, Vue.js, Bootstrap, Selenium
 * **Databases**: MySQL, SQLite
 * **Tools**: Git, GitHub, PhpStorm, Visual Studio Code, Sublime Text 3
-
-## 📈 Career Highlights
-
-* **Software Developer at Bettercaremarket** (Oct 2023 – Dec 2024): Developed automated web scraping pipelines using Python (Selenium, Beautiful Soup) and integrated Stripe payment gateway into Laravel-based eCommerce platforms.
-* **Full Stack Developer at Pocket Studio** (Mar 2021 – Jun 2022): Built and maintained backend modules for custom HR management systems and delivered responsive, SEO-optimized web solutions.
-* **Web Developer at View Nepal Web Hosting** (Oct 2018 – Mar 2020): Developed custom web applications for clients in the tourism and retail sectors, streamlining content publishing for non-technical staff.
 
 ## 🌱 Projects
 
